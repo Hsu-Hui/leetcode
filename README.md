@@ -1,4 +1,4 @@
-# leetcode
+# LeetCode
 
 | Number | Title | Solution | Difficulty |
 |--------| ----- | -------- | ---------- |
@@ -9,6 +9,7 @@
 |14|[Longest Common Prefix]('https://leetcode.com/problems/longest-common-prefix/')|[Python]('code/python/Longest_Common_Prefix.py')|Easy
 |20|[Valid Parentheses]('https://leetcode.com/problems/valid-parentheses/')|[Python]('code/python/Valid_Parentheses.py')|Easy
 |21|[Merge Two Sorted Lists]('https://leetcode.com/problems/merge-two-sorted-lists/')|[Python]('code/python/Merge_Two_Sorted_Lists.py')|Easy
+|26|[Remove Duplicates from Sorted Array]('https://leetcode.com/problems/remove-duplicates-from-sorted-array/')|[Python]('code/python/Remove_Duplicates_from_Sorted_Array.py')|Easy
 |27|[Remove Element]('https://leetcode.com/problems/remove-element/solution/')|[Python]('code/python/Remove_Element.py')|Easy
 |28|[Implement strStr()]('https://leetcode.com/problems/implement-strstr/')|[Python]('code/python/Implement_strStr.py')|Easy
 |53|[Maximum Subarray]('https://leetcode.com/problems/maximum-subarray/')|[Python]('code/python/Maximum_Subarray.py')|Easy
